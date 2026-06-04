@@ -40,7 +40,7 @@ The system achieves **~91% accuracy** and is deployed using a **Streamlit web ap
 
 ## 👨‍💻 Author
 
-Nandu D
+Monisha K
 Bengaluru, India
 
 ---
